@@ -13,7 +13,7 @@ masala_chicken = [
     "low fat yoghurt 4 tbsp",
     "chop ginger",
     "6 cloves garlic",
-    "---------------------------------"
+    "---------------------------------",
     "SPICE POWDER IN THE CURRY",
     "Turmeric powder- 1/2 tsp",
     "Red Chilli Powder- 1/2 tsp",
