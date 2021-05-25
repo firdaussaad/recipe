@@ -11,7 +11,7 @@ masala_chicken = [
     "Tumeric powder 1/4 tsp",
     "Garam masala 1 tsp",
     "low fat yoghurt 4 tbsp",
-    "chop ginger",
+    "1 cm chop ginger",
     "6 cloves garlic",
     "---------------------------------",
     "SPICE POWDER IN THE CURRY",
