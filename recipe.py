@@ -19,7 +19,7 @@ masala_chicken = [
     "Red Chilli Powder- 1/2 tsp",
     "Pav Bhaji Masala- 1 tsp",
     "Coriander seeds 2 tsp",
-    "Cumin seeds",
+    "Cumin seeds seeds 2 tsp",
     "Garam Masala powder- 1 tsp",
     "---------------------------------"
 ]
