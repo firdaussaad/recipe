@@ -11,19 +11,36 @@ masala_chicken = [
     "Tumeric powder 1/4 tsp",
     "Garam masala 1 tsp",
     "low fat yoghurt 4 tbsp",
-    "1 cm chop ginger",
+    "chop ginger",
     "6 cloves garlic",
+    "---------------------------------",
+    "Chop item",
+    "2 whole onion",
+    "2 whole tomatos",
     "---------------------------------",
     "SPICE POWDER IN THE CURRY",
     "Turmeric powder- 1/2 tsp",
     "Red Chilli Powder- 1/2 tsp",
     "Pav Bhaji Masala- 1 tsp",
     "Coriander seeds 2 tsp",
-    "Cumin seeds seeds 2 tsp",
-    "Garam Masala powder- 1 tsp",
-    "Green chilli - 8-9",
-    "Coriander leaves"
+    "Cumin seeds - 2 tsp",
+    "Garam Masala powder- 2 tsp",
     "---------------------------------"
+]
+
+sambal_prawn = [
+    "Fine grind ingredients",
+    "4 onion",
+    "1 garlic",
+    "ginger",
+    "handful of dried chilli",
+    "handful of dried shrimp",
+    "---------------------------------"
+    "TO ADD"
+    "500g prawn",
+    "eggs",
+    "tamarind juice",
+
 ]
 
 ayam_rendang = [
@@ -57,6 +74,9 @@ if recipe == "masala chicken":
         print(ingredient)
 elif recipe == "rendang chicken":
     for ingredient in ayam_rendang:
+        print(ingredient)
+elif recipe == "sambal prawn":
+    for ingredient in sambal_prawn:
         print(ingredient)
 else:
     print("Recipe is not available")
